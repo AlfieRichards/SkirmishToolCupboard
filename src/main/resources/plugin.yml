@@ -1,0 +1,5 @@
+name: ToolCupboards
+version: '${project.version}'
+main: me.skirmish.SkirmishTC
+api-version: 1.12.2
+authors: [ ArtificialIndi ]
